@@ -1,0 +1,172 @@
+body{
+    margin: 10px 80px;
+    height: 1047;
+}
+.navigation{
+list-style-type: none;
+}
+.navigation li{
+    float: left;
+    padding: 5px;
+}
+nav{
+    display: inline-block;
+}
+.content{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(161, 161, 161);
+    height: 44px;
+    width: 850px;
+}
+.headerImage{
+    width: 850px;
+    height: 313px;
+    border: 1px solid rgb(65, 73, 103);
+    background-color: rgb(87, 103, 163);
+    
+}
+.profileImage{
+    width: 168px;
+    height: 168px;
+    margin: 10px 10px;
+    border: 1px solid rgb(65, 73, 103);
+    border-radius: 3px;
+    background-color: rgb(87, 103, 163);
+    position: absolute;
+    left: 90px;
+    top: 168px;
+}
+.YourName{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    width: 250px;
+    height: 40px;
+    position: absolute;
+    left: 252px;
+    top: 252px;
+    text-align: center;
+    vertical-align: middle;
+}
+.Website{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 50;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    width: 85px;
+    height: 30px;
+    position: absolute;
+    left: 270px;
+    top: 290px;
+    text-align: center;
+    vertical-align: middle;
+}
+.Like{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    background-color: rgb(252, 252, 252);
+    width: 62px;
+    height: 25px;
+    position: absolute;
+    left: 643px;
+    top: 287px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 3px;
+}
+.Follow{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    background-color: rgb(252, 252, 252);
+    width: 74px;
+    height: 25px;
+    position: absolute;
+    left: 715px;
+    top: 287px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 3px, 0px, 0px, 3px;
+}
+.Message{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    background-color: rgb(252, 252, 252);
+    width: 88px;
+    height: 25px;
+    position: absolute;
+    left: 789px;
+    top: 287px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(161, 161, 161);
+}
+.Dots{
+    font-size: 20px;
+    background-color: rgb(252, 252, 252);
+    width: 40px;
+    height: 25px;
+    position: absolute;
+    left: 877px;
+    top: 287px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid rgb(161, 161, 161);
+    border-radius: 0px, 3px, 3px, 0px;
+}
+.Timeline{
+    position: absolute;
+    height: 44px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    left: 283px;
+    top: 340px;
+}
+
+.About{
+    position: absolute;
+    height: 44px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    left: 375px;
+    top: 340px;
+}
+
+.Welcome{
+    position: absolute;
+    height: 44px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    left: 450px;
+    top: 340px;
+}
+
+.FWB{
+    position: absolute;
+    height: 44px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    left: 550px;
+    top: 340px;
+}
+
+.More{
+    position: absolute;
+    height: 44px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    left: 610px;
+    top: 340px;
+}
+.Bar{
+    width: 65px;
+    height: 2px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(161, 161, 161);
+    position: absolute;
+    left: 283px;
+    top: 367px;
+}
