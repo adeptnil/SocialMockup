@@ -2,15 +2,9 @@ body{
     margin: 10px 80px;
     height: 1047;
 }
-.navigation{
-list-style-type: none;
-}
 .navigation li{
-    float: left;
+    float: center;
     padding: 5px;
-}
-nav{
-    display: inline-block;
 }
 .content{
     background-color: rgb(255, 255, 255);
