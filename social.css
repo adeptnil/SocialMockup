@@ -1,25 +1,27 @@
 body{
     margin: 10px 80px;
-    height: 1047;
+    height: 1600px;
+    width: 1000px;
+    background-color: rgb(233, 234, 235);
 }
 .navigation li{
     float: center;
     padding: 5px;
 }
-.content{
+.content1{
     background-color: rgb(255, 255, 255);
     border: 1px solid rgb(161, 161, 161);
     height: 44px;
     width: 850px;
 }
-.headerImage{
+.headerImage1{
     width: 850px;
     height: 313px;
     border: 1px solid rgb(65, 73, 103);
     background-color: rgb(87, 103, 163);
     
 }
-.profileImage{
+.profileImage1{
     width: 168px;
     height: 168px;
     margin: 10px 10px;
@@ -30,7 +32,7 @@ body{
     left: 90px;
     top: 168px;
 }
-.YourName{
+.YourName1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: bold;
     color: rgb(255, 255, 255);
@@ -43,7 +45,7 @@ body{
     text-align: center;
     vertical-align: middle;
 }
-.Website{
+.Website1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 50;
     color: rgb(255, 255, 255);
@@ -56,7 +58,7 @@ body{
     text-align: center;
     vertical-align: middle;
 }
-.Like{
+.Like1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 13px;
     background-color: rgb(252, 252, 252);
@@ -70,7 +72,7 @@ body{
     border: 1px solid rgb(161, 161, 161);
     border-radius: 3px;
 }
-.Follow{
+.Follow1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 13px;
     background-color: rgb(252, 252, 252);
@@ -84,7 +86,7 @@ body{
     border: 1px solid rgb(161, 161, 161);
     border-radius: 3px, 0px, 0px, 3px;
 }
-.Message{
+.Message1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 13px;
     background-color: rgb(252, 252, 252);
@@ -97,7 +99,7 @@ body{
     vertical-align: middle;
     border: 1px solid rgb(161, 161, 161);
 }
-.Dots{
+.Dots1{
     font-size: 20px;
     background-color: rgb(252, 252, 252);
     width: 40px;
@@ -110,7 +112,7 @@ body{
     border: 1px solid rgb(161, 161, 161);
     border-radius: 0px, 3px, 3px, 0px;
 }
-.Timeline{
+.Timeline1{
     position: absolute;
     height: 44px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -120,7 +122,7 @@ body{
     top: 340px;
 }
 
-.About{
+.About1{
     position: absolute;
     height: 44px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -129,7 +131,7 @@ body{
     top: 340px;
 }
 
-.Welcome{
+.Welcome1{
     position: absolute;
     height: 44px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -138,7 +140,7 @@ body{
     top: 340px;
 }
 
-.FWB{
+.FWB1{
     position: absolute;
     height: 44px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -147,7 +149,7 @@ body{
     top: 340px;
 }
 
-.More{
+.More1{
     position: absolute;
     height: 44px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -155,7 +157,7 @@ body{
     left: 610px;
     top: 340px;
 }
-.Bar{
+.Bar1{
     width: 65px;
     height: 2px;
     background-color: rgb(87, 103, 163);
@@ -164,3 +166,411 @@ body{
     left: 283px;
     top: 367px;
 }
+
+h1{
+
+}
+
+p{
+    
+}
+.blankboxtop{
+    position: absolute;
+    top: 410px;
+    left: 75px;
+    width: 328px;
+    height: 23px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.aboutyour{
+    position: absolute;
+    top: 433px;
+    left: 75px;
+    width: 328px;
+    height: 105px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.yourwebsite{
+    position: absolute;
+    top: 538px;
+    left: 75px;
+    width: 328px;
+    height: 32px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.about{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 580px;
+    left: 75px;
+    width: 328px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(92, 94, 113)
+}
+.youraddress{
+    position: absolute;
+    top: 612px;
+    left: 75px;
+    width: 328px;
+    height: 105px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.apps{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 727px;
+    left: 75px;
+    width: 328px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(92, 94, 113)
+}
+.welcome{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 759px;
+    left: 75px;
+    width: 328px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(31, 34, 44)
+}
+.fwb{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 849px;
+    left: 75px;
+    width: 328px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(31, 34, 44)
+}
+.livestream{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 939px;
+    left: 75px;
+    width: 328px;
+    height: 90px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(31, 34, 44)
+}
+.photos{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 1039px;
+    left: 75px;
+    width: 328px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(92, 94, 113)
+}
+.photosbox{
+    position: absolute;
+    top: 1071px;
+    left: 75px;
+    width: 328px;
+    height: 328px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.english{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left: 80px;
+    top: 1408px;
+    color: rgb(173, 176, 184)
+}
+.facebook{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left: 80px;
+    top: 1424px;
+    color: rgb(173, 176, 184)
+}
+.rectangle1{
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 111px;
+    height: 74px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.rectangle2{
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 111px;
+    height: 74px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.rectangle3{
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    width: 111px;
+    height: 74px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares1{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    width: 102px;
+    height: 102px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares2{
+    position: absolute;
+    top: 114px;
+    left: 5px;
+    width: 103px;
+    height: 103px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares3{
+    position: absolute;
+    top: 222px;
+    left: 5px;
+    width: 103px;
+    height: 103px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares4{
+    position: absolute;
+    top: 5px;
+    left: 114px;
+    width: 103px;
+    height: 103px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares5{
+    position: absolute;
+    top: 5px;
+    left: 222px;
+    width: 103px;
+    height: 103px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares6{
+    position: absolute;
+    top: 114px;
+    left: 114px;
+    width: 103px;
+    height: 103px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.phsquares7{
+    position: absolute;
+    top: 114px;
+    left: 222px;
+    width: 103px;
+    height: 103px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+.pagename1{
+    position: absolute;
+    left: 413px;
+    top: 410px;
+    width: 512px;
+    height: 256px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.likebox1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left: 413px;
+    top: 666px;
+    width: 512px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(130, 141, 180)
+}
+.pagename2{
+    position: absolute;
+    left: 413px;
+    top: 708px;
+    width: 512px;
+    height: 131px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.likebox2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left: 413px;
+    top: 839px;
+    width: 512px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(130, 141, 180)
+}
+.pagename3{
+    position: absolute;
+    left: 413px;
+    top: 881px;
+    width: 512px;
+    height: 332px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.likebox3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left: 413px;
+    top: 1212px;
+    width: 512px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(130, 141, 180)
+}
+.pagename4{
+    position: absolute;
+    left: 413px;
+    top: 1254px;
+    width: 512px;
+    height: 131px;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.likebox4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    position: absolute;
+    left: 413px;
+    top: 1385px;
+    width: 512px;
+    height: 32px;
+    background-color: rgb(246, 247, 248);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+    color: rgb(130, 141, 180)
+}
+.smsquare1{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.smsquare2{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.smsquare3{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.smsquare4{
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.lrgrec1{
+    position: absolute;
+    top: 68px;
+    left: 6px;
+    width: 500px;
+    height: 185px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}
+.lrgrec3{
+    position: absolute;
+    top: 68px;
+    left: 14px;
+    width: 484px;
+    height: 180px;
+    background-color: rgb(87, 103, 163);
+    border: 1px solid rgb(212, 214, 218);
+    border-radius: 3px;
+}  
